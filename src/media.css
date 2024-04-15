@@ -1,0 +1,67 @@
+
+@media screen and (max-width: 1440px) {
+    .sections .col-lg-4 img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .sections .col-12 img {
+        width: 600px;
+    }
+    .sections h1 {
+        font-size: 2em;
+        text-align: center;
+    }
+    .sections h4 {
+        font-size: 1em;
+        text-align: center;
+    }
+    .faqs-form form {
+        width: 100%;
+    }
+    .video-stream {
+        flex-direction: column-reverse;
+    }
+    /* sigup html */
+    #signin {
+        width: 55%;
+    }
+    
+}
+
+@media screen and (max-width: 468px) {
+    .navbar-brand {
+        font-size: 2em;
+    }
+    .lang span {
+        display: none;
+    }
+    .sections .row {
+        margin: 0;
+        padding: 0 10px;
+    }
+    .sections .col-12 img {
+        width: 100%;
+    }
+    .faqs-form form {
+        flex-direction: column;
+        width: 100%;
+    }
+    .faqs-form form input {
+        width: 100%;
+    }
+    .accordion-item {
+        width: 100%;
+    }
+    .accordion-button {
+        font-size: 2em;
+    }
+    .accordion-body {
+        font-size: 1em;
+    }
+    /* sign up html */
+    #signin {
+        width: 100%;
+    }
+}

@@ -1,0 +1,35 @@
+# React project is inside "netflix" folder.
+
+# Backend API is on "backend" folder
+
+----------------------------------------------
+
+### Backend API - Netflix Movies API
+ 
+ > Structure
+ ------------
+
+List of all movies/shows:
+http://localhost:3500/all 
+
+
+List of movies or series:
+http://localhost:3500/movies
+
+
+List of detailed movie/show:
+http://localhost:3500/details/movie-name?type='show'
+
+
+User authentication:
+-----------------------------
+
+(Post) User register: 
+http://localhost:3500/register
+
+(Post) User login to generate jwt:
+http://localhost:3500/login
+
+(Get) Particular user information:
+http://localhost:3500/userInfo
+

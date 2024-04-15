@@ -1,0 +1,154 @@
+
+#main {
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.4)), url("./images/Netflix-Background.jpg");
+  /* height: 100vh; */
+}
+
+.navbar-brand {
+  font-size: 2.8em;
+}
+
+.signin:hover {
+  background-color: darkred;
+  color: white;
+}
+
+#hero {
+  top: 200px;
+  font-size: 1.5em;
+}
+
+#hero h1 {
+  font-size: 2em;
+  font-weight: 900;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+}
+
+.sections h1 {
+  font-size: 3em;
+  font-family: 'Poppins', sans-serif;
+}
+
+.sections {
+  background-color: rgb(0,0,0);
+  color: white;
+  height: 550px;
+  border-top: 6px solid rgba(128, 128, 128, 0.4);
+}
+
+.sections .row {
+  position: relative;
+  top: 100px;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  max-height: 300px;
+}
+
+.footer-row {
+  height: auto;
+}
+
+.content {
+  width: 600px;
+  padding: 10px;
+}
+
+.faqs-container {
+  height: 65%;
+  padding-bottom: 50px;
+}
+
+.faqs-container h1{
+  margin: 50px auto;
+}
+
+#faqs {
+  margin: 10px auto;
+}
+
+.accordion-item {
+  background-color: black;
+  border: none;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.accordion-header {
+  border: none;
+  font-size: 0.5rem;
+}
+
+.accordion-button {
+  background-color: rgba(56, 56, 56, 0.801);
+  color: white;
+  padding: 1.5rem;
+  font-size: 3.2em;
+  font-weight: 600;
+}
+
+.accordion-button::after {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' fill='%23ffff' viewBox='0 0 16 16'><path d='M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z'/></svg>");
+  background-position: center;
+  background-size: cover;
+  width: 46px; 
+  height: 46px;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: rgba(56, 56, 56, 0.801);
+  color: white;
+  /* --bs-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>");
+  background-image: url("--bs-accordion-btn-active-icon"); */
+  background-repeat: no-repeat;
+}
+
+.accordion-button:hover {
+  background-color: rgba(95, 92, 92, 0.6);
+}
+
+.accordion-body {
+  font-size: 1.5em;
+}
+
+footer a {
+  color: white;
+  font-size: 16px;
+  font-weight: 300;
+  text-decoration-thickness: 0.5px;
+  width: fit-content;
+}
+
+.faqs-form form input {
+  width: 350px;
+  color: white;
+}
+
+.form input::placeholder {
+  color:aliceblue;
+}
+
+/* sign in html styles */
+
+#signin {
+  background-color: black;
+  height: 80vh;
+  width: 35%;
+}
+
+#signin h2 {
+  position: relative;
+  top: 50px;
+}
+
+#signin form {
+  top: 80px;
+}
+
+#signin input::placeholder {
+  color: white;
+}
