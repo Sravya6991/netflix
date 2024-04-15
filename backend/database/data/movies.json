@@ -1,0 +1,181 @@
+[
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMjQyYWQ4MTMtODVmYi00ODYzLWE1NTktM2U2OTgwMDFhMjA5XkEyXkFqcGdeQXVyOTE1MTM4MzI@._V1_.jpg",
+        "genre": ["Comedy", "Fantasy", "Drama"],
+        "imdbid": "tt9904252",
+        "title": "Nice & Naughty, A Christmas Story",
+        "imdbrating": 7.9,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A father's tradition of inviting less fortunate guest for Christmas takes a tragic turn when he is murdered. One year later, his daughter decides to honor his memory by carrying on the ..."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNzY5Yjg4MDYtNThmOC00ODU0LWIzYjQtOWJhYWFjN2MxZDk0XkEyXkFqcGdeQXVyNDMyNTgyNDQ@._V1_UY268_CR146,0,182,268_AL_.jpg",
+        "genre": ["Drama"],
+        "imdbid": "tt9899344",
+        "title": "GodHead: In a fiction, in a dream of passion",
+        "imdbrating": 6.8,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Dreamers in a lonely circus..."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZDFiMGU4OGItNmFmNi00MGZlLTg2YmItNzc3OThiZmI0MTRlXkEyXkFqcGdeQXVyOTk4MzQzNTY@._V1_UY268_CR46,0,182,268_AL_.jpg",
+        "genre": ["Biography", "Comedy", "Drama"],
+        "imdbid": "tt9858058",
+        "title": "8 Days with Hopper",
+        "imdbrating": 4.8,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "1970, American sweetheart Michelle Phillips is untangling herself from a recent marriage to the leader of the Mamas and the Papas, John Phillips. Pressure to record a final album for the ..."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYTQzMWEzNTItNGVkNS00MDJhLWFmNzAtMTE1NjYzOGMyMjJhXkEyXkFqcGdeQXVyMTY0MDQxMTM@._V1_UY268_CR14,0,182,268_AL_.jpg",
+        "genre": ["Drama", "Thriller"],
+        "imdbid": "tt9783698",
+        "title": "The Uncanny",
+        "imdbrating": 7.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "After a life altering trauma, Zouzou, a therapist, seeks a fresh start in a new home. As she attempts to focus on her own fledgling art career, she soon realizes you can't outrun memories. ..."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZWVjMmFkZDAtMTI3OC00OWMwLWE3NDYtMjVlMTIyYmI4OWI2XkEyXkFqcGdeQXVyNTgwNDM3Ng@@._V1_UY268_CR4,0,182,268_AL_.jpg",
+        "genre": ["Drama"],
+        "imdbid": "tt9570072",
+        "title": "Scare B&B",
+        "imdbrating": null,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "'The Visit' is a feature length anthology horror film from Talkinglens Productions. Each story revolves around different characters and situations, yet they all have one thing in common; they're set in the same house."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYjhiY2U2ZGUtN2FjZS00NjE3LWE0OGItYzlhYjk0OTI1YTM0XkEyXkFqcGdeQXVyMTA0OTY2NjQ1._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": ["Action", "Biography", "Drama"],
+        "imdbid": "tt7599146",
+        "title": "Sound of Freedom",
+        "imdbrating": 8.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "The story of Tim Ballard (Jim Caviezel), a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNDM2NDMzNWYtMWQxZS00ZjBhLThiZjUtMmQ4ZWJhNWUwZmU0XkEyXkFqcGdeQXVyMjQ4MzIyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": ["Documentary"],
+        "imdbid": "tt7470986",
+        "title": "The Guest List",
+        "imdbrating": 9,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Fates of the innocent and guilty collide on the night of America's deadliest rock concert. It could fairly be said that music and rock culture drew one hundred innocent people to their ..."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNTE2NWQ0N2UtZGM0ZS00ODkwLWE2NWItMjUzMjRlZThiOWE0XkEyXkFqcGdeQXVyNDI3MTA5MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": ["Drama"],
+        "imdbid": "tt12196612",
+        "title": "The Lockdown Stories",
+        "imdbrating": null,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "At the time of lock-down for COVID-19 pandemic, a guy having suicidal tendencies bounds to be locked at home with his ex-wife and the story begins."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMTU3MjY4MDU3MF5BMl5BanBnXkFtZTcwMjgxNTcxNw@@._V1_UY268_CR0,0,182,268_AL_.jpg",
+        "genre": ["Action", "Crime", "Drama"],
+        "imdbid": "tt1483007",
+        "title": "Lilling Angels",
+        "imdbrating": 8.9,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A group of elitists recruit a freelance agent in an attempt to bring down the worlds biggest human trafficking network."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYzRkMGI4NjgtODgxZi00ZWNkLWExMzEtNmVkMmQ1MGNkMjcyXkEyXkFqcGdeQXVyNTQ5MDIyODg@._V1_UY268_CR9,0,182,268_AL_.jpg",
+        "genre": ["Animation"],
+        "imdbid": "tt9899344",
+        "title": "Seaper Powers, In Search of Blue Jay's Treasure",
+        "imdbrating": 7.3,
+        "released": 2021,
+        "type": "movie",
+        "synopsis": "Embark on a magical ocean journey in this feature-length animated film for young adventurers and families of all ages. Meet Emma, a little girl on vacation off the island of St. Thomas, who..."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZGQ0NzEwN2YtMWFmOS00YjBkLThlNGYtOGYwYWVjYWI5NzUxXkEyXkFqcGdeQXVyNjU1ODkxNTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": ["Crime", "Thriller"],
+        "imdbid": "tt9537936",
+        "title": "Tank Cleaner",
+        "imdbrating": 6.6,
+        "released": 2021,
+        "type": "movie",
+        "synopsis": "A young orphan boy working as tank cleaner is trapped in water tank by someone. He struggles for his life for four days in this tank full of water."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNTk0NjljNDEtM2FmYS00MTJmLTk5ZGQtYmY3NzMzZTg4MjY0XkEyXkFqcGdeQXVyMTU4MDMxOTQ@._V1_UY268_CR3,0,182,268_AL_.jpg",
+        "genre": ["Drama"],
+        "imdbid": "tt9843470",
+        "title": "The Island of Lies",
+        "imdbrating": 5.8,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "In the early morning of January 2, 1921, amid a thick fog, the steam Santa Isabel, with 260 emigrants bound for Buenos Aires, sank off the rugged and rugged coast of the island of Sálvora."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNTMyMmY0YWEtNTBkNC00NjAzLThjZjItZGFhMGYzMmU4NzE3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": ["Action", "Comedy", "Crime"],
+        "imdbid": "tt9898858",
+        "title": "Coffee & Kareem",
+        "imdbrating": 5.1,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Twelve-year-old Kareem Manning hires a criminal to scare his mom's new boyfriend -police officer James Coffee - but it backfires, forcing Coffee and Kareem to team up in order to save themselves from Detroit's most ruthless drug kingpin."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMzk2YmEyZjMtZTRiZS00OGYyLWE5N2EtOTRjNzRhMjRiNWNlXkEyXkFqcGdeQXVyMjQ2NzY0Njk@._V1_UY268_CR4,0,182,268_AL_.jpg",
+        "genre": ["Drama"],
+        "imdbid": "tt9890308",
+        "title": "Nasir",
+        "imdbrating": 7.1,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Salesman Nasir lives a contended life with his mother Fatima, wife Taj and nephew Iqbal in a closely populated ghetto. Employed in an apparel shop at the heart of a busy city, the middle ..."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BY2MwZTJiOGItYWM1ZS00YjU2LTkzNzgtNzU2MTM2ZjVjMGFkXkEyXkFqcGdeQXVyNTE0NDA5NTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "imdbid": "tt6048070",
+        "title": "The Extraordinary Ordinary",
+        "imdbrating": 8.3,
+        "released": 2019,
+        "type": "movie",
+        "synopsis": "Three young adults with a history of mental health issues learn how to cope with triggers when old wounds resurface."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZmQxMDY2YmYtOWI0Yy00NDkzLTk1NTctZThkMGJiZDFlNDBhXkEyXkFqcGdeQXVyMTEyOTMzMzYx._V1_UY268_CR4,0,182,268_AL_.jpg",
+        "genre": ["Comedy", "Drama", "Mystery"],
+        "imdbid": "tt5209124",
+        "title": "Cold Night",
+        "imdbrating": 3.2,
+        "released": 2019,
+        "type": "movie",
+        "synopsis": "Confronted by the cultural restrict rules of his Scandinavian society, a private detective deconstructs himself through the argument of Shakespeare' s Hamlet."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BOGMxZjllZmItZGQ0Ny00MjlmLWExOTUtYzkzMmQ2OWIwYzNkXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": ["Action", "Adventure", "History"],
+        "imdbid": "tt9899344",
+        "title": "Torped",
+        "imdbrating": 5.9,
+        "released": 2019,
+        "type": "movie",
+        "synopsis": "During the height of World War II, commander Stan and a courageous group of resistance fighters are given a suicide mission to deliver a stolen Nazi submarine filled with atomic uranium. ..."
+    },
+    {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMWJjOTk5NmEtNmQ5OS00MjViLTgwYTItNTJhNjcyMWE5ZDg0XkEyXkFqcGdeQXVyODcyMDM3NjM@._V1_UY268_CR5,0,182,268_AL_.jpg",
+        "genre": ["Drama"],
+        "imdbid": "tt9324428",
+        "title": "Two Autumns in Paris",
+        "imdbrating": 8.2,
+        "released": 2019,
+        "type": "movie",
+        "synopsis": "A young political refugee escapes to Paris, persecuted by the Paraguayan dictatorship, falls in love with a young law student, but must decide her future, without forgetting her struggle for freedom."
+    }
+]
