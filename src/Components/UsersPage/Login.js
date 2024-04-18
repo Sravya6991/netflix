@@ -46,7 +46,7 @@ const Login = () => {
         <form className="position-relative w-100" onSubmit={handleSubmit}>
           <input
             className="form-control mb-3 p-2 bg-dark text-light rounded-0"
-            placeholder="Email"
+            placeholder="johndoe@gmail.com"
             name="email"
             type="email"
             value={user.email}
@@ -56,7 +56,7 @@ const Login = () => {
             type="password"
             name="password"
             className="form-control mb-3 p-2 bg-dark text-light  rounded-0"
-            placeholder="Password"
+            placeholder="johndoe123"
             value={user.password}
             onChange={handleChange}
           />
