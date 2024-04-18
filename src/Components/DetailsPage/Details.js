@@ -32,63 +32,54 @@ const Details = () => {
   const search = useLocation().search;
   const type = new URLSearchParams(search).get('type');
 
-  useEffect(() => {
-    const fetchData = async() => {
-      
-      try {
-        const movieResult = await axios.get(`${durl}${movieName}?type=${type}`, {
-          method: 'GET',
-          headers: {
-            "Content-Type": "application/json",
-          }
-        })
-       
-        const movies = await axios.get(murl, {
-          method: 'GET',
-          headers: {
-            "Content-Type": "application/json",
-          }
-        });
-
-        const shows = await axios.get(surl, {
-          method: 'GET',
-          headers: {
-            "Content-Type": "application/json",
-          }
-        });
-
-        const uresponse = await axios.get(`${url}`, {
-          headers: {
-            "x-access-token": sessionStorage.getItem("token")
-          }
-        });
-
-        const aresponse = await axios.get(aurl, {
-          method: 'GET',
-          headers: {
-            'Content-Type': "application/json"
-          }
-        });
-
-        setInfo(movieResult.data)
-        setMovies(movies.data)
-        setShows(shows.data)
-        setAll(aresponse.data);
-        setUser(uresponse.data);
-
-      } catch(err) {
-        console.log(err)
-      }
-      
+  useEffect(() => { 
+    const fetchData = async () => {
+      const movieResult = await axios.get(`${durl}${movieName}?type=${type}`, {
+        method: 'GET',
+        headers: {
+          "Content-Type": "application/json",
+        }
+      })
+     
+      const movies = await axios.get(murl, {
+        method: 'GET',
+        headers: {
+          "Content-Type": "application/json",
+        }
+      });
+  
+      const shows = await axios.get(surl, {
+        method: 'GET',
+        headers: {
+          "Content-Type": "application/json",
+        }
+      });
+  
+      const uresponse = await axios.get(url, {
+        headers: {
+          "x-access-token": sessionStorage.getItem("token")
+        }
+      });
+  
+      const aresponse = await axios.get(aurl, {
+        method: 'GET',
+        headers: {
+          'Content-Type': "application/json"
+        }
+      });
+  
+      setInfo(movieResult.data)
+      setMovies(movies.data)
+      setShows(shows.data)
+      setAll(aresponse.data);
+      setUser(uresponse.data);
     }
-
-    fetchData()
-
+        fetchData();
+        // eslint-disable-next-line
   },[movieName]);
 
   const filterItems = (items)=>{
     setFilteredData(items)
-    console.log(filteredData)
   }
 
   return (
