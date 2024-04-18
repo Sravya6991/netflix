@@ -8,11 +8,17 @@ import MovieInfo from './MovieInfo'
 import FilterResults from '../MoviesPage/FilterResults';
 import PopularMovies from '../MoviesPage/PopularMovies'
 
-const murl = "http://localhost:3500/movies";
-const surl = "http://localhost:3500/shows";
-const durl = "http://localhost:3500/details/";
-const url = "http://localhost:3500/userInfo";
-const aurl = "http://localhost:3500/all";
+// const durl = "http://localhost:3500/details/";
+const durl = "https://netflix-backend-ekph.onrender.com/details/";
+// const murl = "http://localhost:3500/movies";
+const murl = "https://netflix-backend-ekph.onrender.com/movies";
+// const surl = "http://localhost:3500/shows";
+const surl = "https://netflix-backend-ekph.onrender.com/shows";
+// const url = "http://localhost:3500/userInfo";
+const url = "https://netflix-backend-ekph.onrender.com/userInfo";
+// const aurl = "http://localhost:3500/all";
+const aurl = "https://netflix-backend-ekph.onrender.com/all";
+
 
 const Details = () => {
   const [info, setInfo] = useState("");

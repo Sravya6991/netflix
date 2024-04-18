@@ -5,10 +5,15 @@ import HeaderUser from './HeaderUser';
 import PopularMovies from './PopularMovies';
 import FilterResults from './FilterResults';
 
-const murl = "http://localhost:3500/movies";
-const surl = "http://localhost:3500/shows";
-const url = "http://localhost:3500/userInfo";
-const aurl = "http://localhost:3500/all";
+// const murl = "http://localhost:3500/movies";
+const murl = "https://netflix-backend-ekph.onrender.com/movies";
+// const surl = "http://localhost:3500/shows";
+const surl = "https://netflix-backend-ekph.onrender.com/shows";
+// const url = "http://localhost:3500/userInfo";
+const url = "https://netflix-backend-ekph.onrender.com/userInfo";
+// const aurl = "http://localhost:3500/all";
+const aurl = "https://netflix-backend-ekph.onrender.com/all";
+
 
 const Movies = () => {
   const [movies, setMovies] = useState("");

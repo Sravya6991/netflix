@@ -3,7 +3,8 @@ import {Link, useHistory} from 'react-router-dom'
 import axios from 'axios';
 import Footer from "../Homepage/Footer";
 
-const rurl = "http://localhost:3500/register";
+// const rurl = "http://localhost:3500/register";
+const lurl = "https://netflix-backend-ekph.onrender.com/register";
 
 const Signup = (props) => {
     const [user, setUser] = useState({

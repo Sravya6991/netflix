@@ -24,7 +24,7 @@ const HeroContent = () => {
             onChange={(e)=>setEmail(e.target.value)}
             placeholder="Email address"
           />
-          <Link to="/login" className="btn bg-danger text-light fw-bold fs-5 rounded-0">
+          <Link to="https://netflix-backend-ekph.onrender.com/login" className="btn bg-danger text-light fw-bold fs-5 rounded-0">
             Get Started 
           </Link>
         </form>
